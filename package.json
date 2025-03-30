@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "tsx ecosplit/frontend/server/index.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.3"
+  }
+}

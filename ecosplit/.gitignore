@@ -1,0 +1,5 @@
+# Security
+__pycache__
+venv
+.env
+*.json
